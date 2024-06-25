@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=helikon
+POSTGRES_USER=uJdNcgPdYoRuVLhuMZLolyFucokdzqIR
+POSTGRES_PASSWORD=9M9GR7kscyN4WkedWYpmJAziKvXTeICQipOF78lc3GAiUeZdBsju3n1eA9Z0A5Z1
