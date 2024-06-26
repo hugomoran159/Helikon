@@ -20,6 +20,7 @@ urlpatterns = [
     path("users/", include("helikon.users.urls", namespace="users")),
     path("accounts/", include("allauth.urls")),
     # Your stuff: custom urls includes go here
+    path("upload_csv/", include("helikon.findme.urls")),
     # ...
     # Media files
     *static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT),
